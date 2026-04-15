@@ -11,7 +11,7 @@ Lately I'm all-in on **AI-assisted development** — on the frontier of how AI i
 ### What I bring to the table
 
 - 🧠 **Product sense** sharpened by business, data, and project management lenses
-- 🏗️ **Architecture over keystrokes** — strong instincts for data flow, boundaries, and trade-offs; that's the high-leverage work, and it's where I do my best thinking
+- 🏗️ **Systems & architecture thinking** — strong instincts for data flow, boundaries, and trade-offs; I can hold the whole shape of a system in my head and reason about second-order effects before they bite. That's the high-leverage work, and it's where I do my best thinking
 - 💻 **Full-stack capable** — strongest in frontend (React, Next.js, TypeScript, Tailwind), comfortable extending into backend and data
 - 🤖 **AI-assisted dev expertise** — Claude Code daily driver, pushing what's possible with agentic workflows
 - ☕ **A good hang** — humble, curious, and quick with a joke; I care about the people I build with as much as what we build
