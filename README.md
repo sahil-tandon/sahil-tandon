@@ -4,13 +4,13 @@
 
 Product-minded **software engineer** based in **Canada**. Frontend-leaning by experience, but a systems thinker at heart — with AI as a co-pilot, I work across the stack and focus my energy where it matters most: **architecture and direction**.
 
-My path has been deliberately multidisciplinary: **B.E. in Computer Science**, **MS in Information Systems (UC '20)**, and three semesters toward an MS in Project Management in the US before moving to Canada. Different lenses on the same question — *how do you actually build something people want?*
+My path has been deliberately multidisciplinary: **B.E. in Computer Science**, **MS in Business Administration and Information Systems**, and three semesters toward an **MS in Project Management** in the US before moving to Canada. Different lenses on the same question — *how do you actually build something people want?*
 
 Lately I'm all-in on **AI-assisted development** — on the frontier of how AI is reshaping the way software gets built. *Claude Code happens to be my favorite coding assistant*, but the real interest is the shift itself: what it means to design, direct, and ship software when the bottleneck moves from typing to thinking. I care a lot about taste, shipping, and the humans on the other side of the screen.
 
 ### What I bring to the table
 
-- 🧠 **Product sense** sharpened by business, data, and project management lenses
+- 🧠 **Product sense** sharpened by business, data, technology and project management lenses
 - 🏗️ **Systems & architecture thinking** — strong instincts for data flow, boundaries, and trade-offs; I can hold the whole shape of a system in my head and reason about second-order effects before they bite. That's the high-leverage work, and it's where I do my best thinking
 - 💻 **Full-stack capable** — strongest in frontend (React, Next.js, TypeScript, Tailwind), comfortable extending into backend and data
 - 🤖 **AI-assisted dev expertise** — Claude Code daily driver, pushing what's possible with agentic workflows
