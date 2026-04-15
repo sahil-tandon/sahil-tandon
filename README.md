@@ -6,29 +6,21 @@ Product-minded **software engineer** based in **Canada**. Frontend-leaning by ex
 
 My path has been deliberately multidisciplinary: **B.E. in Computer Science**, **MS in Information Systems (UC '20)**, and three semesters toward an MS in Project Management in the US before moving to Canada. Different lenses on the same question — *how do you actually build something people want?*
 
-Lately I'm all-in on **AI-assisted development** — working hard to earn the title of *Claude Code power user* and staying on the frontier of how AI is reshaping how software gets built. I care a lot about taste, shipping, and the humans on the other side of the screen.
+Lately my craft is **AI-assisted development**. I spend a lot of time on the frontier of how AI is reshaping the way software gets built — *Claude Code happens to be my favorite coding assistant*, but the real interest is the shift itself: what it means to design, direct, and ship software when the bottleneck moves from typing to thinking. I care a lot about taste, shipping, and the humans on the other side of the screen.
 
 ### What I bring to the table
 
 - 🧠 **Product sense** sharpened by business, data, and project management lenses
-- 🏗️ **Systems & architecture thinking** — I direct the design; AI handles a lot of the typing
+- 🏗️ **Systems & architecture thinking** — I focus on the shape of the solution; with AI in the loop, implementation follows once the design is right
 - 💻 **Full-stack capable** — strongest in frontend (React, Next.js, TypeScript, Tailwind), comfortable extending into backend and data
 - 🤖 **AI-assisted dev expertise** — Claude Code daily driver, pushing what's possible with agentic workflows
-- ☕ **Humble, warm, and quick with a joke** — high-EQ collaborator; I try to leave the room a little brighter than I found it
+- ☕ **A good hang** — humble, curious, and quick with a joke; I care about the people I build with as much as what we build
 
 ### Tech I reach for
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,supabase,nodejs,expo,git,github" alt="stack" />
 </p>
-
-### Featured projects
-
-- 💡 [**date-dash**](https://github.com/sahil-tandon/date-dash) — AI-powered date idea generator · Next.js + TS
-- ☁️ [**react-clouds**](https://github.com/sahil-tandon/react-clouds) — customizable layered cloud component
-- ⚽ [**fpl-radar**](https://github.com/sahil-tandon/fpl-radar) — FPL price prediction · Next.js 15 + Supabase
-- 🧠 [**zephyr**](https://github.com/sahil-tandon/zephyr) — brain-training games for cognitive enhancement
-- 🌐 [**portfolio**](https://sahil-tandon.github.io) — personal site
 
 ### GitHub in numbers
 
