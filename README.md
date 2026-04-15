@@ -1,13 +1,5 @@
 <h1 align="center">Hi, I'm Sahil 👋</h1>
 
-<p align="center">
-  <a href="https://github.com/sahil-tandon">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Product-minded+software+engineer;Systems+thinker%2C+architecture-first;Power+user+of+Claude+Code;Shipping+with+AI+as+a+co-pilot&center=true&width=520&height=45&color=7aa2f7&vCenter=true&size=22" alt="typing" />
-  </a>
-</p>
-
----
-
 ### About me
 
 Product-minded **software engineer** based in **Canada**. Frontend-leaning by experience, but a systems thinker at heart — with AI as a co-pilot, I work across the stack and focus my energy where it matters most: **architecture and direction**.
