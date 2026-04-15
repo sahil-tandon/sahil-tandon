@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/sahil-tandon">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Product-minded+frontend+engineer;Building+thoughtful+interfaces;Power+user+of+Claude+Code;React+%C2%B7+Next.js+%C2%B7+TypeScript&center=true&width=520&height=45&color=7aa2f7&vCenter=true&size=22" alt="typing" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Product-minded+software+engineer;Systems+thinker%2C+architecture-first;Power+user+of+Claude+Code;Shipping+with+AI+as+a+co-pilot&center=true&width=520&height=45&color=7aa2f7&vCenter=true&size=22" alt="typing" />
   </a>
 </p>
 
@@ -10,16 +10,19 @@
 
 ### About me
 
-Product-minded engineer based in **Canada**. Frontend by trade, generalist by instinct — I sit comfortably between business, data, and code. MS in Information Systems (UC '20), with prior degrees in business and data grounding how I think about problems before I touch a keyboard.
+Product-minded **software engineer** based in **Canada**. Frontend-leaning by experience, but a systems thinker at heart — with AI as a co-pilot, I work across the stack and focus my energy where it matters most: **architecture and direction**.
+
+My path has been deliberately multidisciplinary: **B.E. in Computer Science**, **MS in Information Systems (UC '20)**, and three semesters toward an MS in Project Management in the US before moving to Canada. Different lenses on the same question — *how do you actually build something people want?*
 
 Lately I'm all-in on **AI-assisted development** — working hard to earn the title of *Claude Code power user* and staying on the frontier of how AI is reshaping how software gets built. I care a lot about taste, shipping, and the humans on the other side of the screen.
 
 ### What I bring to the table
 
-- 🧠 **Product sense** sharpened by a business + data background
-- 💻 **Frontend engineering** — React, Next.js, TypeScript, Tailwind
-- 🤖 **AI-assisted dev expertise** — Claude Code daily driver, exploring the edge of what's possible
-- ☕ **High EQ, humble, and a bit funny** — I try to leave the room a little warmer than I found it
+- 🧠 **Product sense** sharpened by business, data, and project management lenses
+- 🏗️ **Systems & architecture thinking** — I direct the design; AI handles a lot of the typing
+- 💻 **Full-stack capable** — strongest in frontend (React, Next.js, TypeScript, Tailwind), comfortable extending into backend and data
+- 🤖 **AI-assisted dev expertise** — Claude Code daily driver, pushing what's possible with agentic workflows
+- ☕ **Humble, warm, and quick with a joke** — high-EQ collaborator; I try to leave the room a little brighter than I found it
 
 ### Tech I reach for
 
