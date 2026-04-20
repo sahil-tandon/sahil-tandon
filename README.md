@@ -2,7 +2,7 @@
 
 ### About me
 
-Product-minded **software engineer** based in **Canada**. Frontend-leaning by experience, but a systems thinker at heart - with AI as a co-pilot, I work across the stack and focus my energy where it matters most: **architecture and direction**.
+Product-minded **software engineer** based in **Canada**. Frontend-leaning by experience, but a systems thinker at heart - with AI as a co-pilot, I work across the stack and focus my energy where it matters most: **product, architecture, and direction**.
 
 My path has been deliberately multidisciplinary: **B.E. in Computer Science**, **MS in Business Administration and Information Systems**, and three semesters toward an **MS in Project Management** in the US before moving to Canada. Different lenses on the same question — *how do you actually build something people want?*
 
