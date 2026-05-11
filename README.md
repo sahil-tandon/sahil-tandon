@@ -32,7 +32,7 @@ Lately I'm all-in on **AI-assisted development** — on the frontier of how AI i
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2081](https://github.com/tradingview/lightweight-charts/pull/2081) in [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts)
+1. 💪 Opened PR [#28](https://github.com/sahil-tandon/sahil-tandon.github.io/pull/28) in [sahil-tandon/sahil-tandon.github.io](https://github.com/sahil-tandon/sahil-tandon.github.io)
 <!--END_SECTION:activity-->
 
 ---
