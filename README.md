@@ -32,7 +32,7 @@ Lately I'm all-in on **AI-assisted development** — on the frontier of how AI i
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/sahil-tandon/standout/pull/2) in [sahil-tandon/standout](https://github.com/sahil-tandon/standout)
+1. 🎉 Merged PR [#3](https://github.com/sahil-tandon/standout/pull/3) in [sahil-tandon/standout](https://github.com/sahil-tandon/standout)
 <!--END_SECTION:activity-->
 
 ---
